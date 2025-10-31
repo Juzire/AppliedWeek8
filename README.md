@@ -5,7 +5,7 @@ An endless runner game. You control a cow moving left, center, and right lanes t
 
 ---
 ## Gameplay Video
-[![Gameplay Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/1o3aWZaX8M-xdn2Ua0tjG-TGBidjQir1r/view?usp=sharing)  
+[![Gameplay Video](<img width="1435" height="800" alt="Screenshot 2025-10-31 173756" src="https://github.com/user-attachments/assets/7cad1ce3-a1fc-4763-b5f6-a209c5a88f39" />)](https://drive.google.com/file/d/1o3aWZaX8M-xdn2Ua0tjG-TGBidjQir1r/view?usp=sharing)  
 
 ---
 ## Features
