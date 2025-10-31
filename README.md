@@ -4,9 +4,8 @@
 An endless runner game. You control a cow moving left, center, and right lanes to **avoid fences** and survive as long as possible. Fences spawn in all three lanes and move toward the player. The cow has health points (HP) that decrease on collision and regenerate over time.
 
 ---
-
 ## Gameplay Video
-[![Gameplay Video]((https://drive.google.com/file/d/1o3aWZaX8M-xdn2Ua0tjG-TGBidjQir1r/view?usp=sharing))  
+[![Gameplay Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/1o3aWZaX8M-xdn2Ua0tjG-TGBidjQir1r/view?usp=sharing)  
 
 ---
 ## Features
