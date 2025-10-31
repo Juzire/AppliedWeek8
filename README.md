@@ -1,7 +1,7 @@
 # Endless Runner
 
 ## Overview
-A 3-lane endless runner game. You control a cow moving left, center, and right lanes to **avoid fences** and survive as long as possible. Fences spawn in all three lanes and move toward the player. The cow has health points (HP) that decrease on collision and regenerate over time.
+An endless runner game. You control a cow moving left, center, and right lanes to **avoid fences** and survive as long as possible. Fences spawn in all three lanes and move toward the player. The cow has health points (HP) that decrease on collision and regenerate over time.
 
 ---
 
