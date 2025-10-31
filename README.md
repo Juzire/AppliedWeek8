@@ -15,7 +15,7 @@ An endless runner game. You control a cow moving left, center, and right lanes t
   - Cow starts with 100 HP.  
   - Colliding with fences reduces 5 HP.  
   - HP regenerates at 1 HP per second.  
-- **Automatic Restart**: Game reloads automatically when HP reaches 0.  
+
 ---
 
 ## Controls
@@ -23,9 +23,4 @@ An endless runner game. You control a cow moving left, center, and right lanes t
 - **Move Right**: Right Arrow  
 - **Jump**: Spacebar
    
----
-## How to Play
-1. Use the movement keys to dodge fences.  
-2. Avoid collisions to survive as long as possible.  
-3. Monitor HP in the UI. HP regenerates automatically over time.  
-4. Game ends and restarts automatically if HP reaches 0.  
+
